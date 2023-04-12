@@ -18,10 +18,6 @@ If you do not provide a commit message, the script will prompt you to do so.
 ### Notes
 This script assumes that the Git repository has already been initialized and configured. It also assumes that the remote repository has already been set up and authenticated.
 
-
-
-
-
 ## Git操作bash脚本
 这个 Bash 脚本用于自动化常见的 Git 操作，包括：
 
