@@ -1,7 +1,7 @@
 set -ex   # add set -ex
 
 # delete the temporary file
-ls -d .* | grep -E "^\.[0-9a-fA-F]{32}$" | xargs rm
+# ls -d .* | grep -E "^\.[0-9a-fA-F]{32}$" | xargs rm
 
 # determine message
 if [ -z "$1" ]
